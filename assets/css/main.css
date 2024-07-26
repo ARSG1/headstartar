@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		color: rgba(3, 0, 153, 0.75);
+		color: rgba(255, 255, 255, 0.75);
 		font-family: "Roboto", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 100;
@@ -3471,8 +3471,8 @@ input, select, textarea {
 		}
 
 		#banner:after {
-			background-image: -moz-linear-gradient(top, rgb(255, 0, 0), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
-			background-image: -webkit-linear-gradient(top, rgba(255, 255, 0, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
+			background-image: -moz-linear-gradient(top, rgb(255, 225, 0), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
+			background-image: -webkit-linear-gradient(top, rgba(255, 0, 0, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
 			background-image: -ms-linear-gradient(top, rgba(0, 255, 4, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
 			background-image: linear-gradient(top, rgba(255, 25, 128, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
 			content: '';
